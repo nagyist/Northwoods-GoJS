@@ -1,5 +1,5 @@
 /*
- * Type definitions for GoJS v3.1.5
+ * Type definitions for GoJS v3.1.6
  * Project: https://gojs.net
  * Definitions by: Northwoods Software <https://github.com/NorthwoodsSoftware>
  * Definitions: https://github.com/NorthwoodsSoftware/GoJS
